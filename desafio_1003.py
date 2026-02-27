@@ -20,4 +20,4 @@ B = int(input())
 
 SOMA = A + B
 
-print(f"SOMA = {SOMA}")
+print("SOMA =", SOMA)
